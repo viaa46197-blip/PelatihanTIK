@@ -1,0 +1,19 @@
+body {
+    background-color: #FFFFE0; /* warna kuning cerah */
+    font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah
+    color: #191970; /* warna teks utama (Biru Gelap) */
+}
+
+.kartu-profil {
+     waduh: 300px;
+     margin: 50px auto; /* 50px jarak/bawah, auto menengahkan kiri
+     padding: 20px;
+     background-color: white;
+     border-radius: 15px; /* membuat sudut menjadi melengkung*/
+     box-show: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+     text-align: center; /* menengah semua teks di dalam kartu */
+}
+
+.kartu-profil img {
+    width: 150px;
+    border-radius: 50%;
